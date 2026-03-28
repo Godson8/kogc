@@ -1098,13 +1098,10 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+          <div className="border-t border-white/10 pt-8 flex flex-col  items-center justify-between gap-4">
             <p className="text-white/40 text-sm">
               &copy; {new Date().getFullYear()} RCCG King of Glory Chapel. All
               rights reserved.
-            </p>
-            <p className="text-white/30 text-xs">
-              Built with love for the Kingdom.
             </p>
           </div>
         </div>
