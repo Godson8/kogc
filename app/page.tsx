@@ -20,27 +20,27 @@ const navLinks = [
 const communityGroups = [
   {
     name: "Excellent Men",
-    image: "/men2.JPEG",
+    image: "/men2.jpeg",
     desc: "A brotherhood built on faith, integrity, and servant leadership.",
   },
   {
     name: "Virtuous Women",
-    image: "/women.JPEG",
+    image: "/women.jpeg",
     desc: "Empowering women to walk in purpose, grace, and strength.",
   },
   {
     name: "Young Adults",
-    image: "/youngAdults.JPEG",
+    image: "/youngAdults.jpeg",
     desc: "Equipping the next generation to lead with courage and conviction.",
   },
   {
     name: "Teenagers",
-    image: "/teens.JPG",
+    image: "/teens.jpg",
     desc: "A safe space for teens to grow in faith and find community.",
   },
   {
     name: "Children",
-    image: "/children.JPEG",
+    image: "/children.jpeg",
     desc: "Planting seeds of faith in the hearts of our youngest members.",
   },
 ];
